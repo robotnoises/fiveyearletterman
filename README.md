@@ -2,6 +2,12 @@
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
+## The O.G.
+
+This is a fork of a fork: [https://github.com/cobyism/ghost-on-heroku](https://github.com/cobyism/ghost-on-heroku)
+
+It is useful to visit the original repo for Issue history.
+
 ## Ghost version 2.X
 
 The latest release of Ghost is now supported! Changes include:
